@@ -1,0 +1,521 @@
+/*****************************************/ /************* 規制執筆の色 *************/
+/*****************************************/
+body {
+  background: url(http://cariprediksi.com/wp-content/uploads/2019/03/バックグラウンド.jpg) no-repeat center !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  background-position-x: center !important;
+  background-position-y: center !important;
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  color: #fff;
+  background-position: top;
+}
+
+/*****************************************/ /************* あなたは知っていますか？ *************/
+
+.slider #progressBar #bar {
+  height: 0px !important;
+}
+
+.blog-posts p {
+  color: #fff;
+}
+
+/*****************************************/ /************* HEADER RULES *************/
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 > i {
+   font-weight: bold;
+   color: #ffffff;
+}
+
+/*****************************************/ /************* シンシ・ラフ *************/
+.blog-sidebar .sidebar-nav {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.blog-sidebar .sidebar-button {
+  margin-bottom: 5px;
+}
+.blog-sidebar .nav.menu > li > a {
+  color: #ffcc00;
+  padding: 10px 0;
+  border-bottom: 1px solid #ffcc00;
+  font-size: 16px;
+  padding-left: 10px;
+}
+.blog-sidebar .nav.menu > li > a > i {
+  padding-right: 10px;
+  color: #000000;
+  background: -webkit-linear-gradient(#ffcc00, #ffcc00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(160, 53, 53, 0);
+}
+.background {er enter, 0px, center center, 100%, color-stop(0%, rgba(237,218,123,1)), color-stop(50%, rgba(109,82,23,1)), color-stop(100%, rgba(237,218,123,1))) !important;
+
+}
+
+.container
+{background: rgba(0, 0, 0, 0) !important;}
+
+.results {
+    background: rgba(255, 215, 0, 0.09) !important; 
+    border-bottom: 1px #FFD700 solid; !important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-top: 1px #FFD700 solid; !important;
+}
+.results > h4 > i {
+  color: #ffcc00;
+  background: -webkit-linear-gradient(#ffcc00, #ffcc00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.results h4 {
+  color: #ffcc00;
+}
+.results-detail {
+  width: 100%;
+  display: inline-block;
+  background: rgba(0, 0, 0, 0.45);
+  padding: 5px 15px;
+  color: #fff;
+  border: 0px solid #ffcc00;
+  -webkit-transition: all 0.25s linear;
+  -moz-transition: all 0.25s linear;
+  transition: all 0.25s linear;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+}
+
+.navbar-fixed-top {
+    background: rgba(255, 215, 0, 0.09) !important;
+    max-width: 1170px;
+    margin: auto;
+}
+
+ul.newsticker > li > a {
+  text-transform:  uppercase !important;
+  color: #fffb00;
+}
+
+.breadcrumbs {
+    padding: 40px 0 !important;
+}
+.news-head {
+    background: rgba(255, 215, 0, 0.09) !important;
+    border-bottom: 1px #ffbe00 solid;
+    border-radius: 0px 00px 00px 20px;
+}
+
+.news-head > h5 {
+  text-transform:  uppercase !important;
+  color: #dcd900 !important;
+}
+
+.news-body {
+    background: rgba(255, 215, 0, 0.09) !important;
+    border-bottom: 1px #ffbe00 solid;
+    border-radius: 0px 0px 20px 00px;
+}
+
+.news-detail {
+  width: 100%;
+  height: 143px;
+  display: inline-block;
+  background: rgba(0, 0, 0, 0.45);
+  padding: 5px 15px;
+  color: #fff;
+  -webkit-transition: all 0.25s linear;
+  -moz-transition: all 0.25s linear;
+  transition: all 0.25s linear;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+  overflow-x: hidden ! important;
+  overflow-y: auto ! important;
+}
+.results-pool {
+  font-size: 15px;
+  float: left !important;
+  color: #fff;
+}
+.results-number{
+  font-size: 16px;
+  font-weight: bold;
+  float: right !important;
+  color: #ffab02;
+}
+
+/***********************************/
+/************* ボタン *************/
+/***********************************/
+button.btn-theme,
+.btn.btn-theme {
+  background: #ffc95e; /* Old browsers */
+  background-image: -webkit-linear-gradient(top, #ffbd32 0%, #ffa900 100%);
+  background-image:         linear-gradient(to bottom, #ffcf6e 0%, #ffad00 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#39f808', endColorstr='#255f12', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  background-repeat: repeat-x;
+/*  background: -moz-linear-gradient(top,  #fcfefc 0%, #aa2201 100%);  FF3.6+ 
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#aa2201), color-stop(100%,#fca104));  Chrome,Safari4+ 
+  background: -webkit-linear-gradient(top,  #fcfefc 0%,#aa2201 100%);  Chrome10+,Safari5.1+ 
+  background: -o-linear-gradient(top,  #fcfefc 0%,#aa2201 100%);  Opera 11.10+ 
+  background: -ms-linear-gradient(top,  #fcfefc 0%,#aa2201 100%);IE10+
+  background: linear-gradient(to bottom,  #fcfefc 0%,#aa2201 100%); W3C 
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfefc', endColorstr='#aa2201',GradientType=1 );*/
+  color: #ffffff;
+  /*border: 1px solid #000000 !important;*/
+  border-width: 0;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  /*box-shadow:inset 0 -3px 0 #635339;*/
+  font-weight: 600;
+  padding: 8px 12px;
+  letter-spacing: 2px;
+  font-weight: bolder;
+}
+
+button.btn-theme:hover,
+.btn.btn-theme:hover,
+button.btn-small:hover,
+.btn.btn-small:hover {
+  color: #ffffff;
+  background-color: #ffc858;
+  background: -webkit-linear-gradient(#e6a724, #a97b1f);
+  /*border: 1px solid #ffbe3e !important; */
+}
+button.btn-small,
+.btn.btn-small {
+  background: #ffc95e; /* Old browsers */
+  background: -moz-linear-gradient(top,  #ffbd32 0%, #ffa900 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffaf00), color-stop(100%,#255f12)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  #ffbd32 0%,#ffa900 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  #ffbd32 0%,#ffa900 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  #ffbd32 0%,#ffa900 100%); /* IE10+ */
+  background: linear-gradient(to bottom,  #ffbd32 0%,#ffa900 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffbd32', endColorstr='#255f12',GradientType=1 ); /* IE6-9 */
+  color: #ffffff;
+  /*border: 1px solid #000000 !important;*/
+  border-width: 0;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+button.uppercase,
+.btn.uppercase {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 400;
+}
+button.divided,
+.btn.divided {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  padding-right: 15px;
+  border: 0;
+  position: relative;
+  -webkit-transition: all 0.15s ease-out;
+  -moz-transition: all 0.15s ease-out;
+  transition: all 0.15s ease-out;
+}
+button.divided .btn-side,
+.btn.divided .btn-side {
+  display: inline-block;
+  float: right;
+  background-color: #464646;
+  padding: 2px 10px;
+  position: absolute;
+  bottom: 0;
+  margin-left: 15px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  font-size: 26px;
+}
+button.divided:focus, button.divided:hover,
+.btn.divided:focus,
+.btn.divided:hover {
+  background-color: #464646;
+}
+button.btn-bordered,
+.btn.btn-bordered {
+  background-color: transparent;
+  border: 3px solid white;
+  color: white;
+  padding: 8px 30px;
+}
+button.btn-bordered:hover,
+.btn.btn-bordered:hover {
+  background-color: #418bca;
+  border-color: transparent;
+}
+button.btn-lg,
+.btn.btn-lg {
+  font-weight: 700;
+}
+
+.btn-group.custom-navigation {
+  margin: 30px 0 20px;
+}
+.btn-group.custom-navigation button,
+.btn-group.custom-navigation .btn,
+.btn-group.custom-navigation button:focus,
+.btn-group.custom-navigation .btn:focus {
+  background-color: white;
+  border: 1px solid #e6e6e6;
+}
+.btn-group.custom-navigation button i,
+.btn-group.custom-navigation .btn i,
+.btn-group.custom-navigation button:focus i,
+.btn-group.custom-navigation .btn:focus i {
+  color: #ffb400;
+}
+.btn-group.custom-navigation button:hover,
+.btn-group.custom-navigation .btn:hover,
+.btn-group.custom-navigation button:focus:hover,
+.btn-group.custom-navigation .btn:focus:hover {
+  background-color: #fff;
+  border-color: transparent;
+}
+.btn-group.custom-navigation button:hover i,
+.btn-group.custom-navigation .btn:hover i,
+.btn-group.custom-navigation button:focus:hover i,
+.btn-group.custom-navigation .btn:focus:hover i {
+  color: white;
+}
+
+.btn-group.custom-navigations {
+  margin: 30px 0 13px;
+}
+.btn-group.custom-navigations button,
+.btn-group.custom-navigations .btn,
+.btn-group.custom-navigations button:focus,
+.btn-group.custom-navigations .btn:focus {
+  background-color: #000000;
+  border: 1px solid #000000;
+}
+.btn-group.custom-navigations button i,
+.btn-group.custom-navigations .btn i,
+.btn-group.custom-navigations button:focus i,
+.btn-group.custom-navigations .btn:focus i {
+  color: #FFF;
+}
+.btn-group.custom-navigations button:hover,
+.btn-group.custom-navigations .btn:hover,
+.btn-group.custom-navigations button:focus:hover,
+.btn-group.custom-navigations .btn:focus:hover {
+  background-color: #ffb627;
+  border-color: transparent;
+}
+.btn-group.custom-navigations button:hover i,
+.btn-group.custom-navigations .btn:hover i,
+.btn-group.custom-navigations button:focus:hover i,
+.btn-group.custom-navigations .btn:focus:hover i {
+  color: #000000;
+}
+
+.btn-group.with-heading {
+  position: relative;
+  width: 100%;
+}
+.btn-group.with-heading h3 {
+  margin-bottom: 0 !important;
+}
+.btn-group.with-heading button,
+.btn-group.with-heading .btn {
+  position: absolute;
+  top: 0;
+}
+.btn-group.with-heading button:last-of-type,
+.btn-group.with-heading .btn:last-of-type {
+  right: 0;
+}
+.btn-group.with-heading button:first-of-type,
+.btn-group.with-heading .btn:first-of-type {
+  right: 28px;
+}
+.btn-group.circle-navigation button,
+.btn-group.circle-navigation .btn,
+.btn-group.circle-navigation button:focus,
+.btn-group.circle-navigation .btn:focus {
+  border: 0;
+  -webkit-border-radius: 50% !important;
+  -moz-border-radius: 50% !important;
+  -ms-border-radius: 50% !important;
+  -o-border-radius: 50% !important;
+  border-radius: 50% !important;
+  padding: 3px 10px;
+}
+.btn-group.circle-navigation button i,
+.btn-group.circle-navigation .btn i,
+.btn-group.circle-navigation button:focus i,
+.btn-group.circle-navigation .btn:focus i {
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: bold;
+  position: relative;
+  top: 1px;
+}
+.btn-group.circle-navigation button:last-of-type i,
+.btn-group.circle-navigation .btn:last-of-type i {
+  right: -1px;
+}
+.btn-group.circle-navigation button:first-of-type i,
+.btn-group.circle-navigation .btn:first-of-type i {
+  left: -1px;
+}
+
+.btn-group.circle-navigations button,
+.btn-group.circle-navigations .btn,
+.btn-group.circle-navigations button:focus,
+.btn-group.circle-navigations .btn:focus {
+  border: 0;
+  -webkit-border-radius: 50% !important;
+  -moz-border-radius: 50% !important;
+  -ms-border-radius: 50% !important;
+  -o-border-radius: 50% !important;
+  border-radius: 50% !important;
+  padding: 2px 6px;
+}
+.btn-group.circle-navigations button i,
+.btn-group.circle-navigations .btn i,
+.btn-group.circle-navigations button:focus i,
+.btn-group.circle-navigations .btn:focus i {
+  font-size: 18px;
+  color: #ffe400;
+  font-weight: bold;
+  position: relative;
+  top: 1px;
+}
+.btn-group.circle-navigations button:last-of-type i,
+.btn-group.circle-navigations .btn:last-of-type i {
+  right: 0px;
+}
+.btn-group.circle-navigations button:first-of-type i,
+.btn-group.circle-navigations .btn:first-of-type i {
+  left: 0px;
+}
+
+
+/***********/ /************* LG *************/
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/boliviajadi.gif") !important;}/*bolivia*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/sydneyjadi.gif") !important;}/*sydney*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/bruneijadi.gif") !important;}/*brunei*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(4) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/singapoorejadi.gif") !important;}/*singapore*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(5) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/thailandjadi.gif") !important;}/*thailand*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(6) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/hongkongjadi.gif") !important;}/*hongkong*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(7) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/totomacaujadi.gif") !important;}/*totomacau*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(8) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/ROULETTEJADI.gif") !important;}/*roulette*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(9) { content:url("http://cariprediksi.com/wp-content/uploads/2018/11/Monopolyjadi.gif") !important;}/*monopoly*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(10) { content:url("http://cariprediksi.com/wp-content/uploads/2018/11/SICBOjadi.gif") !important;}/*sicbo*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(11) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/OGLOKJADI.gif") !important;}/*oglok*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(12) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/POKERDICEJADI.gif") !important;}/*poker dice*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(13) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/REDWHITEJADI.gif") !important;}/*red white*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(14) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/SUWITJADI.gif") !important;}/*suwit*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(15) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/DICE6JADI.gif") !important;}/*dice6*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(16) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/Headtailjadi.gif") !important;}/*headtail*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(17) { content:url("http://cariprediksi.com/wp-content/uploads/2018/11/gongballjadi.gif") !important;}/*gongball*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(18) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/12D.gif") !important;}/*12D*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(19) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/24DJadi.gif") !important;}/*24D*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(20) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/24DSPINJADI.gif") !important;}/*24D SPIN*/
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(21) {  content:url("http://cariprediksi.com/wp-content/uploads/2018/11/Billiardsjadi.gif") !important;}/*billiard*/
+
+/***********/ /************* 銀行 *************/
+
+.buttonlc2 {
+    padding: 5px 0 !important;
+    font-size: 12px !important;
+    line-height: 20px !important;
+}
+
+.inner-wrap, .panel {
+    background: #000 !important;}
+
+.cm-promo {
+    float: left;
+    position: fixed;
+    margin-top: 25%;
+    z-index: 1000;
+}
+
+.container {
+margin-top: auto
+}
+
+section.section {
+    margin-top: auto !important;
+}
+
+.bank {
+	text-align: center;
+	width: 180px;
+	height: 70px;
+	background: none;
+	padding: 0px;
+	border: 0px;
+}
+
+.owl-wrapper .owl-item:nth-child(1) .bank .online {
+width: 180px !important;
+  height: 70px !important;
+background: url('http://cariprediksi.com/wp-content/uploads/2019/02/BCA-ON.png') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .online {
+width: 180px !important;
+  height: 70px !important;
+background: url('http://cariprediksi.com/wp-content/uploads/2019/02/MANDIRI-ON.png') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .online {
+width: 180px !important;
+  height: 70px !important;
+background: url('http://cariprediksi.com/wp-content/uploads/2019/02/BRI-ON.png') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .online {
+width: 180px !important;
+  height: 70px !important;
+background: url('http://cariprediksi.com/wp-content/uploads/2019/02/BNI-ON.png') 0px 0px no-repeat !important;
+}
+
+
+.owl-wrapper .owl-item:nth-child(1) .bank .offline {
+width: 180px !important;
+  height: 70px !important;
+background: url('http://cariprediksi.com/wp-content/uploads/2019/02/BCA-OFF.png') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .offline {
+width: 180px !important;
+  height: 70px !important;
+background: url('http://cariprediksi.com/wp-content/uploads/2019/02/MANDIRI-OF.png') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .offline {
+width: 180px !important;
+  height: 70px !important;
+background: url('http://cariprediksi.com/wp-content/uploads/2019/02/BRI-OFF.png') 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .offline {
+width: 180px !important;
+  height: 70px !important;
+background: url('http://cariprediksi.com/wp-content/uploads/2019/02/BNI-OFF.png') 0px 0px no-repeat !important;
+}
+
+
+/***********/ /************* 登録しますか？ *************/
+
+.control-label {
+  color: #fff;
+}
+
+/***********/ /************* https://rebrand.ly/azl *************/
