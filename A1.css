@@ -538,3 +538,9 @@ color: #e3c45d !important;
 .control-label {
   color: #fff;
 }
+
+.copyright {
+    a {
+        content: '167.71.206.247';
+    }
+}
