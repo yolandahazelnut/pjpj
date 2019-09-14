@@ -538,3 +538,128 @@ color: #e3c45d !important;
 .control-label {
   color: #fff;
 }
+
+.asuminit:nth-child(1) {
+  background: url(https://i.ibb.co/bg70n9b/fb.png) no-repeat;
+  width: 20%;
+  height: 48px;
+  background-size: 100%;
+}
+
+.asuminit:nth-child(2) {
+  background: url(https://i.ibb.co/qWqm77b/ig.png) no-repeat;
+  width: 20%;
+  height: 48px;
+  background-size: 100%;
+}
+
+.asuminit:nth-child(3) {
+  background: url(https://i.ibb.co/rvw1WTZ/tw.png) no-repeat;
+  width: 20%;
+  height: 48px;
+  background-size: 100%;
+}
+
+.asuminit:nth-child(4) {
+  background: url(https://i.ibb.co/pPPfRbd/yt.png) no-repeat;
+  width: 20%;
+  height: 48px;
+  background-size: 100%;
+}
+
+.asuminit:nth-child(1) a {
+  color: white;
+  position: relative;
+  top: 12px;
+  left: 13px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.asuminit:nth-child(2) a {
+  color: white;
+  position: relative;
+  top: 12px;
+  left: 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.asuminit:nth-child(3) a {
+  color: white;    
+  position: relative;
+  top: 12px;
+  left: 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.asuminit:nth-child(4) a {
+  color: white;    
+  position: relative;
+  top: 12px;
+  left: 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.bottomnv {
+	width: auto;
+}
+
+.bottomnv .blacktp{
+    list-style-type: none;
+    overflow: hidden;
+	width:100%;
+	text-align: center;
+	margin: auto;
+}
+
+.bottomnv li {
+    display: inline-block;
+	list-style-type: none;
+}
+
+.bottomnv li a {
+    line-height: 10px;
+    display: block;
+    background: rgb(22, 30, 40) !important;
+    border-radius: 0px 0px 0px 0px;
+    color: #72ef00;
+    padding: 14px 16px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+}
+
+.bottomnv li a:hover {
+    text-shadow: 0px 0px 5px rgba(255, 204, 0, 0.8);
+    border-bottom: 1px solid #003aff;
+    border-top: 1px solid #003aff;
+    border-left:none;
+    border-right:none;
+    text-transform: uppercase;
+    color: #ffcc00 !important;
+}
+.bottomnv_active {
+	border-bottom: 1px solid #36ff00 !important;
+	border-top: 1px solid #36ff00 !important;
+	border-left:none;
+	border-right:none;
+	text-transform: uppercase;
+	color: #f9b800 !important;
+}
+
+.bottomnv_act{
+	border-bottom: 1px solid #ffcc00;
+	border-top: 1px solid #ffcc00;
+}
+
+footer#footer .footer-main .widget a:hover {
+    text-shadow: 0px 0px 5px rgba(58, 54, 39, 0.8);
+    color: #ffffff !important;
+}
+ul#liscroll {
+    top:6px;
+}
