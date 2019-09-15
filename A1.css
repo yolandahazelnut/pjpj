@@ -532,36 +532,37 @@ color: #e3c45d !important;
 
 }
 
-
 /***********/ /************* 登録しますか？ *************/
 
 .control-label {
   color: #fff;
 }
 
+/***********/ /************* ようこそ、新人 *************/
+
 .asuminit:nth-child(1) {
-  background: url(https://i.ibb.co/bg70n9b/fb.png) no-repeat;
+  background: url(http://cariprediksi.com/wp-content/uploads/2019/09/facebook.png) no-repeat;
   width: 20%;
   height: 48px;
   background-size: 100%;
 }
 
 .asuminit:nth-child(2) {
-  background: url(https://i.ibb.co/qWqm77b/ig.png) no-repeat;
+  background: url(http://cariprediksi.com/wp-content/uploads/2019/09/Instagram.png) no-repeat;
   width: 20%;
   height: 48px;
   background-size: 100%;
 }
 
 .asuminit:nth-child(3) {
-  background: url(https://i.ibb.co/rvw1WTZ/tw.png) no-repeat;
+  background: url(http://cariprediksi.com/wp-content/uploads/2019/09/twitter.png) no-repeat;
   width: 20%;
   height: 48px;
   background-size: 100%;
 }
 
 .asuminit:nth-child(4) {
-  background: url(https://i.ibb.co/pPPfRbd/yt.png) no-repeat;
+  background: url(http://cariprediksi.com/wp-content/uploads/2019/09/youtube.png) no-repeat;
   width: 20%;
   height: 48px;
   background-size: 100%;
