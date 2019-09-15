@@ -1,1 +1,1 @@
-$('.sidebar-button').append('<a class="btn greensemvak" style="margin-top:5px;padding-bottom: 15px;" title="Bukti Pembayaran" href="http://cariprediksi.com/bukti-pembayaran/" target="_blank" rel="nofollow"><img class="btn-img" src="https://i.ibb.co/JdyrBF7/jp.png"></a>');
+$('.sidebar-button').append('<a class="btn greensemvak" style="margin-top:5px;padding-bottom: 15px;" title="Bukti Pembayaran" href="http://cariprediksi.com/bukti-pembayaran/" target="_blank" rel="nofollow"><img class="btn-img" src="http://cariprediksi.com/wp-content/uploads/2019/09/newbutton.png"></a>');
