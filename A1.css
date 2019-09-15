@@ -465,7 +465,12 @@ section.section {
     -ms-border-radius: 0px !important;
     -o-border-radius: 0px !important;
     border-radius: 0px !important;
-    margin-left: 0px;
+    margin-left: 70px;
+}
+
+.col-md-9 {
+    margin-top: -105px;
+    margin-left: auto;
 }
 
 .col-md-9 .owl-carousel .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) .bank {
