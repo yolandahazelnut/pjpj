@@ -1,1 +1,1 @@
-$('.sidebar-button').append('<a class="btn" style="margin-top:5px;padding-bottom: 5px;" title="Bukti Jackpot" href="http://167.71.206.247/" target="_blank" rel="nofollow"><img class="btn-img" src="https://i.ibb.co/p1ccTg5/asd.png"></a>');
+$('.sidebar-button').append('<a class="btn" style="margin-top:5px;padding-bottom: 5px;" title="Bukti Pembayaran" href="http://cariprediksi.com/bukti-pembayaran/" target="_blank" rel="nofollow"><img class="btn-img" src="https://i.ibb.co/p1ccTg5/asd.png"></a>');
