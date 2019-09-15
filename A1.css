@@ -470,8 +470,10 @@ section.section {
 
 .col-md-9 {
     margin-top: -105px;
-    margin-left: auto;
+    margin-left: 320px;
 }
+
+.col-md-3 { display: none; }
 
 .col-md-9 .owl-carousel .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) .bank {
 
