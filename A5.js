@@ -72,7 +72,7 @@ function movesnow() {
                         snow[i].posy=0
                 }
         }
-        var timer=setTimeout("movesnow()",5)
+        var timer=setTimeout("movesnow()",10)
 }
 
 for (i=0;i<=snowmax;i++) {
