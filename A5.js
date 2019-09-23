@@ -1,4 +1,4 @@
-var snowmax=50
+var snowmax=20
 var snowcolor=new Array("#aaaacc","#ddddff","#ccccdd","#f3f3f3","#f0ffff")
 var snowtype=new Array("Times","Arial","Times","Verdana")
 var snowletter="*"
