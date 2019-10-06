@@ -75,10 +75,16 @@ color: white !important;
 text-shadow: 0px 0px 6px black;
 }
 
-.slc{top: 87px !important;
+.slc {
+  top: 87px !important;
 }
 
-.space{right: 25px !important;
+.space {
+  right: 25px !important;
+}
+
+.sindex {
+  top: 46px !important;
 }
 
 
