@@ -1,0 +1,41 @@
+<style>
+.header-logo{
+  width: 150px !important;
+  height:50px !important;
+  margin-left: 58px !important;
+  margin-top: -50px!important;
+}
+
+.header-logo2{
+  width: 170px !important;
+  height: 50px !important;
+  margin-top: 15px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.page-header {
+  background:#000000;
+  height:70px;
+  width:100%;
+  position:fixed;
+  z-index:999999;
+  border-bottom:1px solid #818285;
+  top:0;}
+
+  .slc {
+  top: 73px !important;
+}
+
+.space {
+  right: 25px !important;
+}
+
+.sindex {
+  top: 46px !important;
+}
+
+.shead {
+  height: 136px !important;
+}
+</style>
