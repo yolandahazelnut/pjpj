@@ -121,6 +121,20 @@ ul.newsticker > li > a {
     border-radius: 0px 0px 20px 00px;
 }
 
+a#highlight {
+    color: #fff;
+    animation: blur .9s ease-out infinite;
+    text-shadow: 0px 0px 1px #fff, 0px 0px 1px #fff;
+}
+
+@keyframes blur {
+    from {
+        text-shadow: 0px 0px 5px #fff, 0px 0px 5px #fff, 0px 0px 5px #fff, 0px 0px 5px #fff, 0px 0px 5px #fff, 0px 0px 5px #fff, 0px 0px 5px #fff, 0px 0px 25px #fff, 0px 0px 5px #fff, 0px 0px 5px #fff, 0px 0px 5px #7B96B8, 0px 0px 5px #7B96B8, 0px 10px 5px #ffffe8, 0px 10px 50px #ffffe8, 0px 10px 100px #e4be0d, 0px 10px 100px #e4be0d, 0px -10px 100px #e4be0d, 0px -10px 100px #e4be0d;
+color: #fff, #fff, #fff, #ffffe8, #fdfebe, #fdff74, #ffe674, #e4be0d;
+    };
+
+}
+
 .news-detail {
   width: 100%;
   height: 143px;
