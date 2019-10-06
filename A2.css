@@ -15,8 +15,7 @@
 }
 
 .page-header {
-height: 70px !important;
-
+  height: 120px !important;
 }
 
 .page-content {
@@ -74,6 +73,12 @@ background-size: 100% 100%;
 .note {
 color: white !important;
 text-shadow: 0px 0px 6px black;
+}
+
+.slc{top: 87px !important;
+}
+
+.space{right: 25px !important;
 }
 
 
