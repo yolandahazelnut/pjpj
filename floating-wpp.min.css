@@ -3,7 +3,7 @@
     z-index: 99;
     position: fixed;
     bottom: 15px;
-    left: 15px !important;
+    left: 15px;
     font-size: 14px;
     transition: bottom .2s
 }
@@ -53,7 +53,6 @@
 }
 
 .floating-wpp .floating-wpp-popup.active {
-    left: 15px !important;
     padding: 0 12px 12px;
     width: 260px;
     height: auto;
