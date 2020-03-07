@@ -1,6 +1,6 @@
 $(function () {
         $('.floating-wpp').floatingWhatsApp({
-            phone: '99999999999',
+            phone: '6999999999',
             popupMessage: 'Welcome to iamrohit.in',
             showPopup: true,
             position: 'right', // left or right
