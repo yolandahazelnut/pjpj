@@ -1,13 +1,13 @@
 $(function () {
         $('.floating-wpp').floatingWhatsApp({
-            phone: '6999999999',
-            popupMessage: 'Welcome to iamrohit.in',
+            phone: '6282298235553',
+            popupMessage: 'Selamat Datang di PASANGJITU',
             showPopup: true,
             position: 'right', // left or right
             autoOpen: false, // true or false
             //autoOpenTimer: 4000,
-            message: 'Hello how are you my name is rohit',
+            message: 'Halo Pasangjitu',
             //headerColor: 'orange', // enable to change msg box color
-            headerTitle: 'Whatsapp Message Box',
+            headerTitle: 'Kotak Pesan Whatsapp',
         });
     });
