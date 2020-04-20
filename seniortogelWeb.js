@@ -5,7 +5,7 @@ style.borderTop = "5px solid #ff0000";
 var bank = document.evaluate('//*[@id="bank"]/div/div/div[1]', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
 bank.innerHTML = '<img style="margin-top: -25px;" src="https://cariprediksi.com/wp-content/uploads/2020/04/000.png">';
 
-var links = document.createTextNode(`<div id="fl_menu">
+document.body.insertAdjacentHTML('beforeend',`<div id="fl_menu">
 <img src="https://i.ibb.co/3m43VJ9/abc1.png" width="190px" height="43px">
 <div class="menuaa">
 <table width="200">
@@ -20,4 +20,3 @@ var links = document.createTextNode(`<div id="fl_menu">
 </tbody></table>
 </div>
 </div>`);
-document.body.appendChild(links);
