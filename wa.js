@@ -1,6 +1,6 @@
 $(function () {
         $('.floating-wpp').floatingWhatsApp({
-            phone: '6282111854612',
+            phone: '6281316604925',
             popupMessage: 'Selamat Datang di PASANGJITU',
             showPopup: true,
             position: 'left', // left or right
